@@ -1,0 +1,23 @@
+﻿<Window x:Class="_19_WPF_Documents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_19_WPF_Documents"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <FlowDocumentReader>
+            <FlowDocument FontSize="12">
+                <Paragraph>We build our computer(system) the way we build our sities: over time, without a plan on top of ruins.</Paragraph>
+                <Paragraph TextAlignment="Right" FontStyle="Italic">Ellen Ulman</Paragraph>
+                <BlockUIContainer>
+                    <DockPanel LastChildFill="False">
+                        <Button DockPanel.Dock="Right" Content="Don't like" Margin="5" />
+                        <Button DockPanel.Dock="Right" Content="Like" Margin="5"/>
+                    </DockPanel>
+                </BlockUIContainer>
+            </FlowDocument>
+        </FlowDocumentReader>
+    </Grid>
+</Window>

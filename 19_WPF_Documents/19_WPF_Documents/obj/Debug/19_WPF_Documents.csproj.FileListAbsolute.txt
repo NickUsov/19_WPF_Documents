@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\bin\Debug\19_WPF_Documents.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\bin\Debug\19_WPF_Documents.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\bin\Debug\19_WPF_Documents.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\_19_WPF_Documents.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\07\19\19_WPF_Documents\19_WPF_Documents\19_WPF_Documents\obj\Debug\19_WPF_Documents.pdb
